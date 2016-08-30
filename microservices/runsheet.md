@@ -40,4 +40,4 @@ curl $(docker-machine ip default):8080/deals?id=1
 ## Review
 
 * Questions?
-* [On to orchestrators...](../schedulers/runsheet.md)
+* [On to orchestrators...](../orchestrators/runsheet.md)
