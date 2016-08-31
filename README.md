@@ -18,7 +18,7 @@ Building microservices is hard enough, but on top of that you have to choose a n
 
   * write a microservice (language of choice?) 
 
-## [Intro to Orchestrators (Kubernetes)](orhcestrators/runsheet.md)
+## [Intro to Orchestrators (Kubernetes)](orchestrators/runsheet.md)
 
   * Deploy on orchestrator (k8s or minikube)
 
