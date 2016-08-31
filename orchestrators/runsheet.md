@@ -1,5 +1,5 @@
 # Prepare the infrastructure
-Clone the repo [https://github.com/ContainerSolutions/microservices-workshop](https://github.com/ContainerSolutions/microservices-workshop)
+Clone the repo [https://github.com/ContainerSolutions/microservices-workshop](https://github.com/ContainerSolutions/zero-2-hero)
 
 ---
 
