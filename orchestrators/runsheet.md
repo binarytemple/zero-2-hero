@@ -41,7 +41,7 @@ This will download and start weave scope
 
 Or simply 🤓
 ```bash
-$open http://$(minikube ip):$(kubectl describe service front-end \ 
+$open http://`(minikube ip):$(kubectl describe service front-end \ 
 | awk '$1 == "NodePort:" {print $3}' | cut -d/ -f1)
 ```
 This will open the front-end with the default browser
