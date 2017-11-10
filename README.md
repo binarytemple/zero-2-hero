@@ -8,28 +8,17 @@ Building microservices is hard enough, but on top of that you have to choose a n
 
 ## [Intro of Course and SockShop](intro-sockshop/README.md)
 
-  * Course overview + showing Sock Shop
+## [Intro to Microservices](microservices/slides.md)
 
-## [Intro to Containers (Docker)](containers/runsheet.md)
+## [Intro to Containers (Docker)](containers/slides/slides.md)
 
-  * Put microservice in container
+## [Intro to Orchestrators (Kubernetes)](orchestrators/slides.md)
 
-## [Intro to Microservices](microservices/runsheet.md)
+## [Cloud Native Logging](cloud-native-logging-essentials/slides/slides.md)
 
-  * write a microservice (language of choice?) 
+## [Cloud Native Monitoring](cloud-native-monitoring-essentials/slides/slides.md)
 
-## [Intro to Orchestrators (Kubernetes)](orchestrators/runsheet.md)
+## [Visualization of Microservices](visualization-of-microservices-architectures/exercises.md)
 
-  * Deploy on orchestrator (k8s or minikube)
-
-## [Intro to container networking (Weavenet)](networking/README.md)
-
-  * Add a DB container, deploy and connect
-
-## [Visualization and debugging (Weave Scope)](visualisation/README.md)
-
-  * Install Scope, view app, look in container logs
-
-
-
+## [Java on Kubernetes](java-petclinic-kubernetes/README.md)
 
