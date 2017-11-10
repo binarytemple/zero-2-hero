@@ -1,14 +1,15 @@
-# Microservices: Zero to Hero - Introduction of schedulers
-Introduction of scheduler using kubernetes
+### How to Run
 
-## Outline
+```
+$ docker run -d  -p 8000:1948 -v $PWD:/usr/src/app containersol/reveal-md
+```
 
-### Why orchestration?
-### Components
-### Kubernetes architecture
-### Basic concepts
-### Demo
+Then browse to localhost:8000 to see the presentation.
 
-## Review
+<!--
+### Notes on each section
 
-  * TBD
+### 06_userinterface
+
+- A firewall rule needs to be setup to allow for access to port 8001
+-->

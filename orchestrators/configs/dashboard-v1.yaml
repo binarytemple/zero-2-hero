@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: wp-hello
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: wp-hello
+    spec:
+      containers:
+      - name: wp-hello
+        image: wordpress:4.8.0
+        ports:
+        - containerPort: 80
